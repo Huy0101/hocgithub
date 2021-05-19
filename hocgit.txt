@@ -1,1 +1,8 @@
-Huy đẹp zai
+tạo repo 
+copy code repo
+quay về cmd , git clone ten repo
+cd ten repo
+tạo file mơi -> save
+git add .
+git commit -m "thong diep "
+git push
